@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  audioplayers: ^0.15.1
+  flutter_midi: ^1.0.1
+  tonic: ^0.2.3
 
 dev_dependencies:
   flutter_test:
@@ -22,4 +25,5 @@ flutter:
 
   assets:
     - assets/
+    - assets/sounds/xioad_bank.sf2
 
